@@ -1,0 +1,1003 @@
+﻿Address: 0xC5BB8
+                                                   00
+------------------------------------------------------
+                                                 | 00
+Tazmily Village, Twins' House                    | 01
+Tazmily Village, Town Square                     | 01
+Tazmily Village, Wess's House                    | 01
+Tazmily Village                                  | 01
+Tazmily Village                                  | 01
+Tazmily Village                                  | 01
+Saturn Valley                                    | 2B
+Cross Road                                       | 74
+Sunset Cemetery                                  | 08
+Osohe Castle                                     | 08
+Prayer Sanctuary                                 | 01
+Sunshine Forest, Isaac's House                   | 0C
+Aeolia's House                                   | 08
+Mt. Oriander,                                    | 08
+Demo Use                                         | 00
+Mt. Oriander                                     | 0E
+Mt. Oriander, Great Cliff                        | 0E
+Mt. Oriander, River Area                         | 0E
+Mt. Oriander                                     | 0E
+Mt. Oriander, River Area                         | 0E
+Mt. Oriander, Alec's House                       | 08
+Mt. Oriander                                     | 0E
+Mt. Oriander,                                    | 0F
+Chupichupyoi Temple                              | 2F
+Mt. Oriander, Drago Plateau                      | 0F
+Death Desert                                     | 14
+Death Desert, Cul-de-sac                         | 14
+Death Desert                                     | 14
+Death Desert, Start Location                     | 14
+Tazmily Village, Twins' House                    | 01
+Tazmily Village, Town Square                     | 01
+Tazmily Village, Old Man's Paradise              | 01
+Tazmily Village                                  | 41
+Tazmily Village                                  | 01
+Tazmily Village, Cerulean Beach                  | 33
+Cross Road                                       | 74
+Cross Road, Train Station                        | 08
+Railway                                          | 16
+Railway                                          | 15
+Railway                                          | 16
+Railway                                          | 15
+Phrygia's House                                  | 2C
+Railway                                          | 16
+Railway                                          | 15
+Railway                                          | 16
+Factory Station                                  | 15
+Factory                                          | 19
+Murasaki Forest                                  | 19
+Club Titiboo                                     | 1D
+Murasaki Forest                                  | 19
+Murasaki Forest                                  | 19
+Murasaki Forest                                  | 19
+Murasaki Forest, Caeribe Falls                   | 75
+Murasaki Forest, Small Cave                      | 09
+Murasaki Forest                                  | 1A
+Murasaki Forest                                  | 1A
+Clayman Factory                                  | 1A
+Highway                                          | 72
+Highway                                          | 00
+Highway                                          | 1C
+Empty 61                                         | 00
+Empty 62                                         | 00
+Empty 63                                         | 00
+Empty 64                                         | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+                                                 | 00
+Sunflower Field                                  | 26
+Sunflower Field                                  | 26
+Murasaki Forest                                  | 1C
+Sunshine Forest, Isaac's House                   | 0C
+Clayman Factory                                  | 1C
+Sunshine Forest                                  | 0C
+Sunshine Forest, Lighter's House                 | 0C
+Sunshine Forest                                  | 0C
+Sunshine Forest                                  | 0C
+Mt. Oriander, Alec's House                       | 08
+Doria's House                                    | 2C
+Lydia's House                                    | 4D
+Tazmily Village, Town Square                     | 02
+Sunshine Forest                                  | 0D
+Sunshine Forest, Lighter's House                 | 0D
+Sunshine Forest, Lighter's House                 | 0D
+Sunshine Forest, Lighter's House                 | 0D
+Mt. Oriander, Great Cliff                        | 0E
+Sunshine Forest                                  | 0D
+Osohe Castle, Courtyard                          | 47
+Sunshine Forest                                  | 0D
+Sunshine Forest                                  | 0D
+Mt. Oriander, Great Cliff                        | 0E
+                                                 | 32
+Saturn Valley                                    | 44
+Saturn Valley                                    | 31
+Saturn Valley                                    | 31
+Mixolydia's House                                | 32
+Tanetane Island                                  | 73
+Tanetane Island                                  | 32
+Ionia's House                                    | 2C
+Chupichupyoi Temple                              | 2F
+Prayer Sanctuary                                 | 08
+Tazmily Village, Twins' House                    | 04
+Tazmily Village                                  | 03
+Alec's House                                     | 40
+Isaac's House                                    | 03
+Nippolyte's Shack                                | 09
+Nippolyte's Shack                                | 09
+                                                 | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 05
+Tazmily Village                                  | 05
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 07
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 07
+Tazmily Village                                  | 0A
+Tazmily Village                                  | 06
+Tazmily Village                                  | 06
+Tazmily Village, Yado Inn                        | 06
+Tazmily Village                                  | 06
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Prayer Sanctuary                                 | 0B
+Tazmily Village                                  | 03
+                                                 | 38
+                                                 | 09
+                                                 | 37
+Doria's House                                    | 49
+Lydia's House                                    | 4A
+Mr. Saturn House                                 | 69
+Mr. Saturn House                                 | 30
+Mr. Saturn House                                 | 6A
+Mr. Saturn House                                 | 6B
+Alec's House                                     | 40
+Tazmily Village                                  | 03
+                                                 | 03
+Isaac's House                                    | 03
+                                                 | 03
+                                                 | 03
+Lighter's House                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+                                                 | 05
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 06
+Tazmily Village                                  | 03
+Tazmily Village                                  | 07
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+                                                 | 07
+Tazmily Village                                  | 03
+Tazmily Village                                  | 06
+Tazmily Village                                  | 06
+Tazmily Village                                  | 06
+Tazmily Village                                  | 06
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Tazmily Village                                  | 03
+Prayer Sanctuary                                 | 0B
+Tazmily Village                                  | 03
+New Pork City                                    | 5F
+Doria's House                                    | 2C
+Doria's House                                    | 2C
+Snowcap Mountain                                 | 43
+Doria's House                                    | 00
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Tanetane Island                                  | 4E
+Tanetane Island                                  | 4E
+Tanetane Island                                  | 4E
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Gova Volcano                                     | 44
+Gova Volcano                                     | 44
+Snowcap Mountain                                 | 43
+Snowcap Mountain                                 | 43
+Snowcap Mountain                                 | 43
+Tanetane Island                                  | 32
+Tanetane Island                                  | 32
+                                                 | 00
+Sunset Cemetery                                  | 08
+Sunset Cemetery                                  | 08
+Old Man's Paradise                               | 42
+Old Man's Paradise                               | 42
+Old Man's Paradise                               | 42
+Old Man's Paradise                               | 42
+Old Man's Paradise                               | 42
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 2B
+Sunshine Forest                                  | 00
+                                                 | 00
+Tazmily Village, Twins' House                    | 01
+Tazmily Village, Town Square                     | 02
+Osohe Castle                                     | 08
+Osohe Castle                                     | 08
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Mt. Oriander, Great Cliff                        | 0E
+Mt. Oriander, River Area                         | 08
+Mt. Oriander                                     | 00
+Mt. Oriander                                     | 0E
+Sunset Cemetery                                  | 08
+Osohe Castle                                     | 08
+Phrygia's House                                  | 4B
+Aeolia's House                                   | 48
+Mixolydia's House                                | 4C
+Cross Road                                       | 00
+                                                 | 00
+Chupichupyoi Temple                              | 2F
+                                                 | 00
+Clayman Factory                                  | 00
+Murasaki Forest                                  | 00
+END                                              | 00
+                                                 | 00
+                                                 | 00
+Cross Road                                       | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Sunshine Forest, Hot Spring                      | 0C
+Sunshine Forest, Hot Spring                      | 0C
+Sunshine Forest, Hot Spring                      | 0C
+Chimera Forest, Hot Spring                       | 19
+Locria's House                                   | 57
+Aeolia's House                                   | 48
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+New Pork City                                    | 4F
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Club Titiboo                                     | 1E
+Club Titiboo                                     | 1E
+Club Titiboo                                     | 1E
+Club Titiboo                                     | 1E
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo                                     | 1F
+Club Titiboo, Hot Spring                         | 20
+                                                 | 20
+Club Titiboo, Backstage                          | 21
+Club Titiboo                                     | 1E
+Club Titiboo                                     | 1E
+Club Titiboo                                     | 6D
+Club Titiboo                                     | 09
+Club Titiboo                                     | 09
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+                                                 | 29
+Chimera Lab                                      | 29
+Chimera Lab                                      | 29
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Empty 337                                        | 3A
+Empty 338                                        | 3A
+Empty 339                                        | 2C
+Lighter's House                                  | 27
+Lighter's House                                  | 27
+Demo Use                                         | 00
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab, Restroom                            | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 46
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 29
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab, Specimen Room                       | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Chimera Lab                                      | 28
+Highway                                          | 1C
+Highway                                          | 1C
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Sea Floor Dungeon                                | 2D
+Murasaki Forest                                  | 19
+Murasaki Forest                                  | 09
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 5A
+Highway                                          | 1C
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Mole Cricket Hole                                | 2A
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+Nippolyte Passageway                             | 51
+Nippolyte Passageway                             | 09
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+Highway                                          | 1C
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Mt. Oriander                                     | 09
+Outland Dungeon                                  | 09
+Outland Dungeon                                  | 09
+Outland Dungeon                                  | 09
+Outland Dungeon                                  | 09
+Outland Dungeon                                  | 09
+                                                 | 45
+Outland Dungeon                                  | 09
+                                                 | 45
+Outland Dungeon                                  | 09
+Outland Dungeon                                  | 09
+Mt. Oriander, Cave                               | 09
+                                                 | 45
+                                                 | 09
+                                                 | 45
+                                                 | 09
+                                                 | 09
+                                                 | 09
+Highway                                          | 1C
+Thunder Tower                                    | 1C
+Thunder Tower                                    | 24
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+Thunder Tower                                    | 24
+Thunder Tower                                    | 25
+Thunder Tower                                    | 23
+Thunder Tower                                    | 23
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 09
+                                                 | 09
+Highway                                          | 1C
+Highway                                          | 1C
+Clayman Factory                                  | 1B
+Clayman Factory                                  | 1B
+New Pork City                                    | 66
+New Pork City                                    | 76
+New Pork City                                    | 76
+New Pork City                                    | 50
+New Pork City, Sewers                            | 6E
+New Pork City                                    | 63
+New Pork City                                    | 63
+New Pork City, Leder's House                     | 61
+Murki Cave                                       | 3F
+Murki Cave                                       | 3F
+Murki Cave                                       | 3F
+Argilla Pass                                     | 0E
+Argilla Pass, Hot Spring                         | 09
+Chimera Lab                                      | 28
+Mole Cricket Hole                                | 2A
+Chimera Lab                                      | 28
+Osohe Castle                                     | 10
+Club Titiboo                                     | 20
+Thunder Tower                                    | 00
+Highway, Parking Area                            | 1C
+Parking Area                                     | 65
+New Pork City, Sewers                            | 6E
+New Pork City, Sewers                            | 6E
+New Pork City, Sewers                            | 6E
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+Candrum Underpass                                | 09
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Factory                                          | 17
+Factory                                          | 17
+Factory                                          | 17
+Factory                                          | 18
+Factory                                          | 18
+Factory                                          | 18
+Factory                                          | 18
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Osohe Castle 3F, Terrace Entrance                | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle 1F                                  | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 11
+Osohe Castle                                     | 10
+Osohe Castle                                     | 11
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 12
+Osohe Castle                                     | 13
+Osohe Castle                                     | 10
+Osohe Castle 4F, Trash Can Room                  | 13
+Osohe Castle                                     | 10
+Osohe Castle 5F-6F, Landing                      | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle 8F-9F, Landing                      | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 13
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 52
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+Osohe Castle                                     | 10
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Empire Porky Building, Lobby                     | 55
+Empire Porky Building, Lobby                     | 55
+Empire Porky Building, Lobby                     | 55
+Empire Porky Building, Lobby                     | 55
+Empire Porky Building, Lobby                     | 55
+Empire Porky Building, Lobby                     | 55
+Empire Porky Building, Underground               | 64
+Empire Porky Building, Underground               | 64
+Empire Porky Building, Underground               | 6C
+Empire Porky Building, Underground               | 64
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+Empire Porky Building                            | 71
+Empire Porky Building                            | 68
+Empire Porky Building                            | 36
+Empire Porky Building                            | 09
+Empire Porky Building                            | 64
+Empire Porky Building                            | 3D
+Empire Porky Building                            | 3D
+Empire Porky Building                            | 09
+Empire Porky Building                            | 3C
+Empire Porky Building                            | 3C
+Empty 808                                        | 35
+Empire Porky Building, Underground               | 70
+Empire Porky Building, Underground               | 64
+Empty 811                                        | 54
+Empty 812                                        | 54
+Empty 813                                        | 54
+Empty 814                                        | 59
+Empire Porky Building                            | 67
+Empire Porky Building                            | 67
+Empire Porky Building                            | 67
+Empire Porky Building                            | 67
+Empire Porky Building                            | 67
+Empire Porky Building                            | 67
+Empire Porky Building                            | 53
+Empire Porky Building                            | 67
+Empire Porky Building                            | 67
+Empire Porky Building, Restrooms                 | 67
+Empire Porky Building                            | 67
+(EMPTY)                                          | 67
+(EMPTY)                                          | 67
+Empire Porky Building                            | 67
+                                                 | 67
+Empire Porky Building                            | 67
+                                                 | 67
+Empire Porky Building                            | 67
+Empire Porky Building                            | 53
+Empire Porky Building                            | 5C
+Empire Porky Building                            | 5C
+Empire Porky Building                            | 5C
+Empire Porky Building                            | 5C
+Empire Porky Building                            | 5C
+Empire Porky Building                            | 5C
+                                                 | 59
+Empire Porky Building                            | 5B
+                                                 | 54
+                                                 | 54
+                                                 | 54
+                                                 | 59
+                                                 | 54
+                                                 | 54
+                                                 | 54
+                                                 | 60
+                                                 | 58
+Empire Porky Building                            | 5B
+Empire Porky Building                            | 5B
+Empire Porky Building                            | 5B
+Empire Porky Building                            | 5B
+Empire Porky Building, Nice Person Hot Spring    | 5B
+Empire Porky Building, Nice Person Hot Spring    | 5B
+                                                 | 5B
+Empire Porky Building                            | 57
+Empire Porky Building                            | 57
+Empire Porky Building,                           | 57
+                                                 | 54
+Empire Porky Building                            | 5D
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5E
+Empire Porky Building                            | 5D
+Empire Porky Building                            | 5D
+Tanetane Island                                  | 32
+Tanetane Island                                  | 4E
+Empire Porky Building                            | 67
+Limousine                                        | 56
+Empire Porky Building, Entrance                  | 59
+Empire Porky Building                            | 59
+Empire Porky Building                            | 59
+Empire Porky Building                            | 62
+Empire Porky Building                            | 62
+Empire Porky Building, Concert Hall              | 62
+Empire Porky Building                            | 59
+Empire Porky Building                            | 59
+Empire Porky Building                            | 59
+Empire Porky Building                            | 59
+Empire Porky Building                            | 59
+Tanetane Island                                  | 32
+                                                 | 54
+Debug Room                                       | 00
+                                                 | 00
+Empire Porky Building                            | 3C
+Empire Porky Building, Underground               | 70
+Empire Porky Building, Underground               | 70
+Empire Porky Building, Underground               | 00
+Empire Porky Building, Underground               | 70
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+                                                 | 00
+(﻿!﻿                                             | 00

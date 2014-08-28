@@ -1,0 +1,259 @@
+Address: 0xECD40
+                                                   00 01 02 03 04 05 06 07 08 09 0A 0B
+---------------------------------------------------------------------------------------
+                                                 | 00 00 8A 00 00 00 00 00 00 00 00 00
+Let's Begin!                                     | 01 00 3A 00 00 00 00 00 34 0D 00 00
+Fun Naming                                       | 02 00 28 00 00 00 00 00 18 15 00 00
+Voice 1101                                       | 03 00 F6 00 00 00 00 00 3C 00 00 00
+Welcome!                                         | 04 00 E7 05 00 00 00 00 EC 13 00 00
+Alec's Log House                                 | 05 00 FD 00 00 00 00 00 D0 11 00 00
+Mom's Hometown                                   | 06 00 3E 00 00 00 00 00 C4 1D 00 00
+Save                                             | 07 00 54 00 00 00 00 00 80 07 00 00
+I'm a Mole Cricket!                              | 08 00 EF 05 00 00 00 00 A5 00 00 00
+Enemy Encounter!                                 | 09 00 94 07 00 00 00 00 B4 00 00 00
+Bothersome Guys                                  | 0A 00 A7 07 00 00 00 00 E0 10 00 00
+You Won!                                         | 0B 00 97 07 00 00 00 00 FC 03 00 00
+Stand Up Strong                                  | 0C 00 03 00 00 00 00 00 30 0C 00 00
+As You Wish                                      | 0D 00 53 00 00 00 00 00 34 0D 00 00
+A Letter to You, Honey                           | 0E 00 30 00 00 00 00 00 10 0E 00 00
+Carrier Pigeon                                   | 0F 00 E9 05 00 00 00 00 FC 03 00 00
+Mysterious Flying Object                         | 10 00 87 02 00 00 00 00 C0 03 00 00
+LOG-O-TYPE                                       | 11 00 47 00 00 00 00 00 80 07 00 00
+F-F-Fire!                                        | 12 00 0B 00 01 00 00 00 A8 0C 00 00
+Chapter 1                                        | 13 00 70 00 01 00 00 00 68 01 00 00
+Sound of Siren                                   | 14 00 21 00 01 00 00 00 4C 0E 00 00
+Together                                         | 15 00 78 00 01 00 00 00 B4 00 00 00
+To Sunshine Forest                               | 16 00 0A 00 01 00 00 00 88 2C 00 00
+Forest Prayer Sanctuary                          | 17 00 24 00 01 00 00 00 AC 08 00 00
+Forest of Flames                                 | 18 00 48 00 01 00 00 00 F4 0B 00 00
+The Enemy Attacks!                               | 19 00 96 07 01 00 00 00 96 00 00 00
+Mr. Batty Twist                                  | 1A 00 7E 05 01 00 00 00 30 0C 00 00
+The Water's Great                                | 1B 00 2A 00 01 00 00 00 C8 0A 00 00
+Enter the Pigmasks!                              | 1C 00 6D 00 01 00 00 00 68 01 00 00
+Dangerous Guys                                   | 1D 00 AD 07 01 00 00 00 48 12 00 00
+Troublesome Guys                                 | 1E 00 9B 07 01 00 00 00 B8 0B 00 00
+What?                                            | 1F 00 6E 00 01 00 00 00 B4 00 00 00
+Back Beat Battle                                 | 20 00 A3 07 01 00 00 00 E8 17 00 00
+Gentle Rain                                      | 21 00 22 00 01 00 00 00 08 25 00 00
+Homely Yado Inn                                  | 22 00 4A 00 01 00 00 00 38 13 00 00
+Letter from You, My Sweet                        | 23 00 B0 01 01 00 00 00 58 11 00 00
+Hard Rain                                        | 24 00 4B 00 01 00 00 00 58 11 00 00
+Let's Go Together!                               | 25 00 77 00 01 00 00 00 18 01 00 00
+Run, My Dog, Run!                                | 26 00 08 00 01 00 00 00 3C 0F 00 00
+Somewhere, Someday                               | 27 00 4D 00 01 00 00 00 C4 1D 00 00
+Got a...                                         | 28 00 CB 00 01 00 00 00 8C 00 00 00
+Cautiously                                       | 29 00 42 00 01 00 00 00 D0 11 00 00
+Mischievous Blues                                | 2A 00 7D 04 01 00 00 00 28 14 00 00
+Tragic Reconstruction                            | 2B 00 A0 07 01 00 00 00 D0 20 00 00
+Confusion                                        | 2C 00 2D 00 01 00 00 00 70 17 00 00
+MOTHER 3 Love Theme                              | 2D 00 20 00 01 00 00 00 F0 0F 00 00
+Sorrowful Tazmily                                | 2E 00 4E 00 01 00 00 00 68 1F 00 00
+Lonely Room                                      | 2F 00 7B 00 01 00 00 00 A0 05 00 00
+In the Room                                      | 30 00 4C 00 01 00 00 00 88 0E 00 00
+Going Alone                                      | 31 00 4F 00 01 00 00 00 A8 1B 00 00
+Fun Bazaar                                       | 32 00 25 00 01 00 00 00 40 0B 00 00
+The Bread's Ready!                               | 33 00 90 01 01 00 00 00 4A 01 00 00
+Beyond the Sunshine Forest                       | 34 00 A7 00 01 00 00 00 B0 13 00 00
+More Mischievous Blues                           | 35 00 9D 07 01 00 00 00 C0 12 00 00
+Cumbersome Guys                                  | 36 00 9F 07 01 00 00 00 78 0F 00 00
+Mambo de Battle                                  | 37 00 AC 07 01 00 00 00 80 16 00 00
+With My Father-in-Law                            | 38 00 FC 00 01 00 00 00 00 19 00 00
+Astonishing March                                | 39 00 A2 07 01 00 00 00 10 0E 00 00
+Magypsy Party                                    | 3A 00 2F 00 01 00 00 00 54 15 00 00
+Much Better!                                     | 3B 00 2B 00 01 00 00 00 0E 01 00 00
+Danger                                           | 3C 00 88 00 01 00 00 00 A0 14 00 00
+More Troublesome Guys                            | 3D 00 7B 04 01 00 00 00 30 0C 00 00
+Toppling March                                   | 3E 00 82 04 01 00 00 00 78 0F 00 00
+Big Enemy Encounter!                             | 3F 00 95 07 01 00 00 00 B4 00 00 00
+Fight with Mecha-Drago                           | 40 00 9C 07 01 00 00 00 50 19 00 00
+Victorious...                                    | 41 00 50 04 01 00 00 00 FC 03 00 00
+Level Up!                                        | 42 00 99 07 01 00 00 00 48 03 00 00
+Long Shadow                                      | 43 00 A6 01 01 00 00 00 A4 1F 00 00
+Chapter 2                                        | 44 00 71 00 02 00 00 00 68 01 00 00
+Passing Down Secrets                             | 45 00 40 00 02 00 00 00 98 0D 00 00
+Mind of a Thief                                  | 46 00 A8 00 02 00 00 00 B8 1A 00 00
+Suspicious Flying Object                         | 47 00 07 06 02 00 00 00 A0 05 00 00
+Huh?                                             | 48 00 C7 00 02 00 00 00 38 04 00 00
+Zombeat                                          | 49 00 A1 07 02 00 00 00 78 0F 00 00
+Tough Zombeat                                    | 4A 00 81 04 02 00 00 00 4C 0E 00 00
+Fate                                             | 4B 00 A5 07 02 00 00 00 20 0D 00 00
+Accelerondo                                      | 4C 00 A6 07 02 00 00 00 40 0B 00 00
+More Cumbersome Guys                             | 4D 00 7F 04 02 00 00 00 68 10 00 00
+Osohe Castle                                     | 4E 00 43 00 02 00 00 00 10 1D 00 00
+More Dangerous Guys                              | 4F 00 8D 04 02 00 00 00 64 14 00 00
+Back Beat Battle - Hard                          | 50 00 83 04 02 00 00 00 8C 19 00 00
+And El Mariachi                                  | 51 00 AB 07 02 00 00 00 20 1C 00 00
+Dry Guys                                         | 52 00 A8 07 02 00 00 00 AC 17 00 00
+Etude for Ghosts                                 | 53 00 75 05 02 00 00 00 A0 23 00 00
+Got Somethin' Good!                              | 54 00 C9 00 02 00 00 00 8C 00 00 00
+Ragtime Osohe                                    | 55 00 06 00 02 00 00 00 34 08 00 00
+Mambo de Battle Plus                             | 56 00 8C 04 02 00 00 00 58 20 00 00
+Serious                                          | 57 00 85 04 02 00 00 00 20 0D 00 00
+Unfounded Revenge                                | 58 00 9A 01 02 00 00 00 18 15 00 00
+Polterg-g-g-geist                                | 59 00 44 00 02 00 00 00 58 02 00 00
+Family Matters: 2nd Movement                     | 5A 00 A9 07 02 00 00 00 E8 17 00 00
+The Room Too Mysterious                          | 5B 00 45 00 02 00 00 00 14 1E 00 00
+Fanfare of the Noble Spittoon                    | 5C 00 68 00 02 00 00 00 1C 02 00 00
+Morning Already                                  | 5D 00 0C 00 02 00 00 00 A4 01 00 00
+A Master, a Father, a Thief                      | 5E 00 41 00 02 00 00 00 D4 17 00 00
+Piggy Guys                                       | 5F 00 9E 07 02 00 00 00 78 0F 00 00
+Piggy Something                                  | 60 00 7E 04 02 00 00 00 D0 11 00 00
+Open Sesame Oil!                                 | 61 00 3D 00 02 00 00 00 BC 02 00 00
+Open Sesame Tofu!                                | 62 00 46 00 02 00 00 00 B0 04 00 00
+Learned PSI!                                     | 63 00 9A 07 02 00 00 00 50 00 00 00
+Ode to Ancestors: 8th Movement                   | 64 00 89 04 02 00 00 00 54 15 00 00
+Formidable Foe                                   | 65 00 AA 07 02 00 00 00 E4 1B 00 00
+Butch and the Villagers                          | 66 00 A5 01 02 00 00 00 A0 23 00 00
+Chapter 3                                        | 67 00 AB 00 03 00 00 00 FA 00 00 00
+Monkey's Love Song                               | 68 00 AA 00 03 00 00 00 0E 24 00 00
+We're Going Together...?                         | 69 00 72 00 03 00 00 00 F0 00 00 00
+Bean Bean Pork Bean                              | 6A 00 AC 00 03 00 00 00 10 0E 00 00
+BzZzT! Even In My Dreams!                        | 6B 00 AE 00 03 00 00 00 B4 0F 00 00
+The Peddler's Grand Speech                       | 6C 00 AF 00 03 00 00 00 18 33 00 00
+Monkey's Delivery Service                        | 6D 00 AD 00 03 00 00 00 CC 33 00 00
+Dance!                                           | 6E 00 B0 00 03 00 00 00 2C 01 00 00
+What Happened?!                                  | 6F 00 0D 06 03 00 00 00 52 03 00 00
+Laugh! Be Happy!                                 | 70 00 B1 00 03 00 00 00 74 04 00 00
+Formidable Foes                                  | 71 00 8A 04 03 00 00 00 4C 1D 00 00
+Audacious March                                  | 72 00 97 01 03 00 00 00 44 16 00 00
+Drago!?                                          | 73 00 A7 01 03 00 00 00 70 17 00 00
+Thanks, Drago!                                   | 74 00 A8 01 03 00 00 00 38 04 00 00
+Something Strange is Going On                    | 75 00 91 01 03 00 00 00 44 16 00 00
+Love Theme (Reprise)                             | 76 00 AE 01 04 00 00 00 94 11 00 00
+Chapter 4                                        | 77 00 AF 01 04 00 00 00 E0 01 00 00
+A Railway in Our Village!                        | 78 00 79 00 04 00 00 00 A8 1B 00 00
+Good Morning                                     | 79 00 50 00 04 00 00 00 80 07 00 00
+Reminded                                         | 7A 00 AD 01 04 00 00 00 F8 16 00 00
+Hotel Yado                                       | 7B 00 B2 00 04 00 00 00 C0 12 00 00
+My Wonderful Room                                | 7C 00 B3 00 04 00 00 00 78 0F 00 00
+Fun Shopping                                     | 7D 00 B4 00 04 00 00 00 58 11 00 00
+Happy Town?                                      | 7E 00 7A 00 04 00 00 00 C0 21 00 00
+A Little Elegy                                   | 7F 00 2E 00 04 00 00 00 18 15 00 00
+What's Beyond the Tunnel?                        | 80 00 7F 00 04 00 00 00 E8 08 00 00
+Even Drier Guys                                  | 81 00 88 04 04 00 00 00 FC 12 00 00
+Murasaki Forest                                  | 82 00 31 00 04 00 00 00 9C 27 00 00
+Whew, Hauling is Hard Work                       | 83 00 8A 01 04 00 00 00 8A 00 00 00
+Good Work                                        | 84 00 72 07 04 00 00 00 08 02 00 00
+Stringendo                                       | 85 00 86 04 04 00 00 00 98 0D 00 00
+Ride the Ropeway                                 | 86 00 9E 00 04 00 00 00 38 31 00 00
+Club Titiboo Theme                               | 87 00 7C 00 04 00 00 00 38 31 00 00
+Big Shot's Theme                                 | 88 00 05 00 04 00 00 00 B8 1A 00 00
+Girl's Room                                      | 89 00 80 00 04 00 00 00 98 0D 00 00
+Shower Time Ballad                               | 8A 00 EB 05 04 00 00 00 40 1A 00 00
+The Attic's a Dungeon?!                          | 8B 00 89 00 04 00 00 00 08 16 00 00
+Intense Guys                                     | 8C 00 98 01 04 00 00 00 4C 1D 00 00
+A 16-Beat Attack!                                | 8D 00 8F 01 04 00 00 00 18 06 00 00
+A Marching Attack!                               | 8E 00 8E 01 04 00 00 00 58 02 00 00
+Rock and Roll (Mild)                             | 8F 00 A9 00 04 00 00 00 E0 10 00 00
+Rock and Roll (Spicy)                            | 90 00 91 04 04 00 00 00 C0 12 00 00
+Lucky's Room                                     | 91 00 7D 00 04 00 00 00 D0 11 00 00
+Bon Voyage, Amigo                                | 92 00 09 00 04 00 00 00 60 27 00 00
+What's That?!                                    | 93 00 26 00 05 00 00 00 F8 07 00 00
+Chapter 5                                        | 94 00 B1 01 05 00 00 00 A4 01 00 00
+Oh No!                                           | 95 00 8B 01 05 00 00 00 42 00 00 00
+Dangerous Highway                                | 96 00 A6 00 05 00 00 00 10 0E 00 00
+Pork Bean Outta Gas                              | 97 00 AC 01 05 00 00 00 E0 10 00 00
+Parking Area: Dur-T Cafe                         | 98 00 95 00 05 00 00 00 50 19 00 00
+White (Owner's Recommendation)                   | 99 00 7A 07 05 00 00 00 08 25 00 00
+Fairies (Neckbeard's Recommend.)                 | 9A 00 78 07 05 00 00 00 58 20 00 00
+Resolve (Gum Guy's Recommend.)                   | 9B 00 7C 07 05 00 00 00 E8 26 00 00
+Blessing (Skinhead's Recommend.)                 | 9C 00 18 00 05 00 00 00 CC 24 00 00
+Adolescence (Toilet Cow's Rec.)                  | 9D 00 02 00 05 00 00 00 E4 1B 00 00
+Wasteful Anthem                                  | 9E 00 99 01 05 00 00 00 14 19 00 00
+His Highness' Playroom                           | 9F 00 82 00 05 00 00 00 78 0F 00 00
+His Highness' Memory: 2S                         | A0 00 9F 00 05 00 00 00 78 0F 00 00
+His Highness' Memory: 2H                         | A1 00 A0 00 05 00 00 00 08 07 00 00
+MROB-6720M                                       | A2 00 A9 01 05 00 00 00 40 1A 00 00
+GENE163-1425                                     | A3 00 91 05 05 00 00 00 A8 1B 00 00
+Aria of Unease                                   | A4 00 AA 01 05 00 00 00 38 22 00 00
+Chapter 6                                        | A5 00 A3 01 06 00 00 00 A4 01 00 00
+Sunflowers and Illusions                         | A6 00 1D 00 06 00 00 00 30 25 00 00
+Name These Children                              | A7 00 A2 00 06 00 00 00 90 24 00 00
+Mother?!                                         | A8 00 32 00 06 00 00 00 C0 21 00 00
+A Tiny, Enormous Miracle                         | A9 00 35 00 07 00 00 00 10 2C 00 00
+Chapter 7                                        | AA 00 A2 01 07 00 00 00 E0 01 00 00
+Right Left Light Reft                            | AB 00 2C 00 07 00 00 00 54 06 00 00
+Quite the River                                  | AC 00 AB 01 07 00 00 00 58 11 00 00
+Magypsy's Home, Sweetie-Pie                      | AD 00 23 00 07 00 00 00 00 1E 00 00
+Magypsy's Gone, Cutie-Pie                        | AE 00 36 00 07 00 00 00 78 0F 00 00
+Razor and Lipstick                               | AF 00 B3 01 07 00 00 00 87 00 00 00
+And Yet, El Mariachi                             | B0 00 8B 04 07 00 00 00 00 1E 00 00
+Close Your Eyes, Sugar                           | B1 00 A1 01 07 00 00 00 54 15 00 00
+She Was Like a Sunflower                         | B2 00 10 00 07 00 00 00 60 18 00 00
+Let's Ride the Train!                            | B3 00 E8 05 07 00 00 00 C4 0E 00 00
+The Green Train's Fun, Too!                      | B4 00 EA 05 07 00 00 00 C4 0E 00 00
+It's Chimera Research                            | B5 00 6A 00 07 00 00 00 60 18 00 00
+Pink Shell                                       | B6 00 75 00 07 00 00 00 20 0D 00 00
+Pulling of the Needles                           | B7 00 A4 01 07 00 00 00 E0 10 00 00
+More Audacious March                             | B8 00 7F 05 07 00 00 00 AC 17 00 00
+Mole Cricket Elder                               | B9 00 1C 00 07 00 00 00 D0 11 00 00
+Snowman                                          | BA 00 55 00 07 00 00 00 A8 1B 00 00
+His Highness' Theme                              | BB 00 12 00 07 00 00 00 F0 1E 00 00
+Smashing Song of Praise                          | BC 00 81 05 07 00 00 00 C0 21 00 00
+A Flying Whatchamacallit                         | BD 00 9F 01 07 00 00 00 14 0A 00 00
+Mr. What's-His-Nose                              | BE 00 73 00 07 00 00 00 B0 13 00 00
+Mr. Saturn Theme Z                               | BF 00 74 00 07 00 00 00 B0 13 00 00
+Tragic Security                                  | C0 00 80 04 07 00 00 00 A0 23 00 00
+Hustle for Pride                                 | C1 00 82 05 07 00 00 00 E8 17 00 00
+War of the Words                                 | C2 00 8D 00 07 00 00 00 AC 08 00 00
+we humming                                       | C3 00 3C 00 07 00 00 00 A4 10 00 00
+Volcano! Inferno!                                | C4 00 34 00 07 00 00 00 E0 1F 00 00
+Fassad and Interpreter                           | C5 00 B2 01 07 00 00 00 68 10 00 00
+Coffee Break                                     | C6 00 EC 05 07 00 00 00 4C 1D 00 00
+Got Somethin' Great!                             | C7 00 70 07 07 00 00 00 8C 00 00 00
+Beachcombing                                     | C8 00 3B 00 07 00 00 00 38 13 00 00
+O2 in Love                                       | C9 00 1B 00 07 00 00 00 C0 12 00 00
+Tanetane Island                                  | CA 00 1A 00 07 00 00 00 78 1E 00 00
+Red-Green-Yellow-Yellow♪                         | CB 00 37 00 07 00 00 00 38 13 00 00
+Is it Just Me Or Are You Gorgeous?               | CC 00 8E 00 07 00 00 00 00 1E 00 00
+Strong One                                       | CD 00 A4 07 07 00 00 00 28 23 00 00
+And Then There Were None                         | CE 00 14 00 07 00 00 00 88 2C 00 00
+Is Anyone There?                                 | CF 00 B5 00 07 00 00 00 B0 13 00 00
+Like Looking for Dropped Pickles                 | D0 00 0D 00 07 00 00 00 7C 0B 00 00
+Chupichupyoi for World Heritage                  | D1 00 3F 00 07 00 00 00 10 1D 00 00
+Who?                                             | D2 00 9E 01 07 00 00 00 F0 0F 00 00
+Strong One (Masked Man)                          | D3 00 84 04 07 00 00 00 58 20 00 00
+True Welcome!                                    | D4 00 90 00 08 00 00 00 40 10 00 00
+Life's an Inner Turn Radius                      | D5 00 8F 00 08 00 00 00 4C 1D 00 00
+NPC Loves You!                                   | D6 00 B6 01 08 00 00 00 6C 0C 00 00
+Chapter 8                                        | D7 00 9B 01 08 00 00 00 B2 02 00 00
+Isn't This Such a Utopia?!                       | D8 00 8C 00 08 00 00 00 28 23 00 00
+Blip-Blip High Score                             | D9 00 38 00 08 00 00 00 98 0D 00 00
+No Eating Crackers in the Cinema                 | DA 00 99 00 08 00 00 00 B8 1A 00 00
+Beauty and Tasty                                 | DB 00 93 00 08 00 00 00 A0 14 00 00
+New Pork Bossa                                   | DC 00 91 00 08 00 00 00 74 22 00 00
+Absolutely Filthy Apartments                     | DD 00 98 00 08 00 00 00 AC 08 00 00
+Leder's Gymnopedie                               | DE 00 07 00 08 00 00 00 F8 2A 00 00
+Afro Bam-Babam                                   | DF 00 97 00 08 00 00 00 C8 0A 00 00
+Hey, Brother! Gimme an A!                        | E0 00 19 00 08 00 00 00 08 07 00 00
+Theme of DCMC                                    | E1 00 9C 01 08 00 00 00 FC 12 00 00
+Samba de Cambo                                   | E2 00 AF 07 08 00 00 00 2C 1F 00 00
+Hippos                                           | E3 00 27 00 08 00 00 00 38 13 00 00
+Rain, Followed by a Harem                        | E4 00 96 00 08 00 00 00 14 19 00 00
+Refreshing Toilets                               | E5 00 81 00 08 00 00 00 54 15 00 00
+Under Construction...                            | E6 00 92 00 08 00 00 00 28 14 00 00
+Automated...                                     | E7 00 76 00 08 00 00 00 10 0E 00 00
+Even More Intense Guys                           | E8 00 80 05 08 00 00 00 B4 1E 00 00
+Mini-Porky's Entrance                            | E9 00 0B 06 08 00 00 00 40 01 00 00
+Try Kind of Hard!                                | EA 00 9C 00 08 00 00 00 10 0E 00 00
+And... Stop!                                     | EB 00 0C 06 08 00 00 00 2C 01 00 00
+Natural Killer Cyborg                            | EC 00 96 01 08 00 00 00 F8 25 00 00
+Time Passage                                     | ED 00 A1 00 08 00 00 00 38 31 00 00
+A Certain Someone's Memories                     | EE 00 13 00 08 00 00 00 40 1A 00 00
+I Am Porky                                       | EF 00 11 00 08 00 00 00 B8 1A 00 00
+Porky's Porkies                                  | F0 00 95 01 08 00 00 00 80 16 00 00
+Burst-In Rock 'n' Roll                           | F1 00 91 07 08 00 00 00 60 18 00 00
+Master Porky's Theme                             | F2 00 94 01 08 00 00 00 58 4D 00 00
+Absolutely Safe Capsule                          | F3 00 93 01 08 00 00 00 38 13 00 00
+Battle Against the Masked Man                    | F4 00 92 07 08 00 00 00 70 35 00 00
+Memory of Mother                                 | F5 00 A3 00 08 00 00 00 B4 1E 00 00
+It's Over                                        | F6 00 8F 07 08 00 00 00 74 40 00 00
+Phantasmagoric                                   | F7 00 0F 00 08 00 00 00 06 27 00 00
+Curtain Call                                     | F8 00 EE 05 08 00 00 00 EC 6D 00 00
+16 Melodies (Beginning)                          | F9 00 0E 00 08 00 00 00 D8 36 00 00
+Memory of Life                                   | FA 00 33 00 08 00 00 00 F8 25 00 00
+                                                 | FB 00 8A 00 00 00 00 00 00 00 00 00
+                                                 | FC 00 8A 00 00 00 00 00 00 00 00 00
+                                                 | FD 00 8A 00 00 00 00 00 00 00 00 00
+                                                 | FE 00 8A 00 00 00 00 00 00 00 00 00
+                                                 | FF 00 8A 00 00 00 00 00 00 00 00 00
